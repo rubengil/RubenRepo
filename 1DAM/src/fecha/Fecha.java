@@ -1,3 +1,7 @@
+/*
+ * Prácticas 1ºDAM. Curso 2014-2015.
+ */
+
 package fecha;
 
 public class Fecha {
